@@ -1,2 +1,6 @@
 feature 1 with 1bug
+feature2
 feature 2
+
+feature 1 witbug fix
+main
